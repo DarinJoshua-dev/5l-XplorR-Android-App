@@ -2,4 +2,4 @@
 
 An amazing file explorer application based on amaze opensource
 
--- Built using Android
+-- Built using Android, Java
