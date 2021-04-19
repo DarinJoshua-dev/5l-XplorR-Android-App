@@ -10,5 +10,5 @@
 
 <ul><li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
 
-everyone add: <ul><li><a href="your github link">your name</a>
+everyone add: <li><a href="your github link">your name</a>
 
