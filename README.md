@@ -1,5 +1,5 @@
 # 5l-XplorR-Android-App
 
-An amazing file explorer application based on amaze opensource
+5l XplorR app for file management in android devices!
 
 -- Built using Android, Java
