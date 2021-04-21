@@ -6,7 +6,7 @@
 
 ## Contributors:
 
-<img src="https://img.shields.io/badge/Contributors-3-lightblue">
+<img src="https://img.shields.io/badge/Contributors-5-lightblue">
 
 <ul><li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
 
