@@ -13,6 +13,8 @@
 <li><a href="https://github.com/GladwinJosephSolomon">Gladwin Joseph Solomon B</a>
   
  <li><a href="https://github.com/Balaji036">Balaji R</a>
+  
+ <li><a href="https://github.com/isaacgn">Isaac G</a>
 
 everyone add: <li><a href="your github link">your name</a>
 
