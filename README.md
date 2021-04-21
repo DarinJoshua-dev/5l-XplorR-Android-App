@@ -16,7 +16,6 @@
   
  <li><a href="https://github.com/isaacgn">Isaac G</a>
   
-  <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sarjin John</a>
 
 everyone add: <li><a href="your github link">your name</a>
 
