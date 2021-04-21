@@ -18,8 +18,5 @@
 
  <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sargin John</a>
  
- https://github.com/JoelNithishKumar
+ <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a>
  
- Joel Nithish Kumar
- 
-
