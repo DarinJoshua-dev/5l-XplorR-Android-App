@@ -10,11 +10,11 @@
 
 <ul><li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
 
-<li><a href="https://github.com/GladwinJosephSolomon">Gladwin Joseph Solomon B</a>
+ <li><a href="https://github.com/GladwinJosephSolomon">Gladwin Joseph Solomon B</a>
   
  <li><a href="https://github.com/Balaji036">Balaji R</a>
   
  <li><a href="https://github.com/isaacgn">Isaac G</a>
 
-<li><a href="https://github.com/Jebastin-stephen">your name</a>
+ <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sargin John</a>
 
