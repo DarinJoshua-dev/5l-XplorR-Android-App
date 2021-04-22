@@ -16,7 +16,7 @@
   
  <li><a href="https://github.com/isaacgn">Isaac G</a>
 
- <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sargin John</a>
+ <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sarjin John</a>
  
  <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a>
  
