@@ -26,4 +26,4 @@
 <img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_2.jpg">
 <img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_3.jpg">
 <img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_4.jpg">
-<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_6.jpg">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_5.jpg">
