@@ -22,9 +22,8 @@
 
 ## Demo:
 
-<img src="images/Screenshot_1">
-<img src="images/Screenshot_2">
-<img src="images/Screenshot_3">
-<img src="images/Screenshot_4>
-<img src="images/Screenshot_5">
-<img src="images/Screenshot_6">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_1.jpg">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_2.jpg">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_3.jpg">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_4.jpg">
+<img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_6.jpg">
