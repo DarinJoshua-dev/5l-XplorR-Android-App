@@ -21,7 +21,7 @@
  <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a>
 </ul>
 
-## Demo:
+## App Demo:
 
 <img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_1.jpg">
 <img src="https://github.com/DarinJoshua-dev/5l-XplorR-Android-App/blob/master/images/Screenshot_2.jpg">
