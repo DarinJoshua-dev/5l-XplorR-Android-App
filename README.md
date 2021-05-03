@@ -18,8 +18,7 @@
 
  <li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sarjin John</a>
  
- <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a>
-</ul>
+ <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a></ul>
 
 ## App Demo:
 
